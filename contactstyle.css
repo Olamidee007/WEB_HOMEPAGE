@@ -23,7 +23,7 @@ body{
     width: 100%;
 }
 
-.contact-container{
+.contact-wrapper{
     height: calc(100vh - 5rem - 4rem)
 }
 
