@@ -24,6 +24,7 @@ body{
 }
 
 .wrapper{
+    overflow: auto;
     background-image: url('./balloon\ party.jpg');
     background-position: 0 0;
     background-repeat: no-repeat;
